@@ -1,0 +1,10 @@
+{
+  "name": "Endro de Calcinha",
+  "symbol": "EDC",
+  "description": "Token fungível de exemplo.",
+  "image": "https://example.com/logo.png",
+  "properties": {
+    "category": "token",
+    "files": [{ "uri": "https://example.com/logo.png", "type": "image/png" }]
+  }
+}
