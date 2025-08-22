@@ -1,10 +1,10 @@
 {
-  "name": "Endro de Calcinha",
-  "symbol": "EDC",
-  "description": "Token fungível de exemplo.",
-  "image": "https://example.com/logo.png",
+  "name": "Mariah Milkers",
+  "symbol": "MM",
+  "description": "I’m calm and cool in your dms…",
+  "image": "https://dd.dexscreener.com/ds-data/tokens/solana/B32hGG9q55tcik9gNBPuoSHTnqFtpKYLpsApFyvCpump.png?size=lg&key=a41081",
   "properties": {
     "category": "token",
-    "files": [{ "uri": "https://example.com/logo.png", "type": "image/png" }]
+    "files": [{ "uri": "https://dd.dexscreener.com/ds-data/tokens/solana/B32hGG9q55tcik9gNBPuoSHTnqFtpKYLpsApFyvCpump.png?size=lg&key=a41081", "type": "image/png" }]
   }
 }
